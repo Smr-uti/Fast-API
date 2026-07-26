@@ -1,0 +1,3 @@
+app = FastAPI()
+
+@app.get()
